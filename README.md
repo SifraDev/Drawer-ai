@@ -43,6 +43,12 @@ We built Drawer AI entirely on **Replit**, leveraging its full-stack capabilitie
   ```
 ---
 
+## 🎥 Demo & Links
+* **Demo Video:** 
+* **Live App:** [https://drawer-ai.replit.app]
+
+---
+
 ## 🧗 Challenges we ran into
 One major challenge was moving beyond simple text extraction to full **File Retrieval**. Initially, the AI could tell you *about* the document, but couldn't *give* you the document. We had to re-architect the backend to ensure a persistent link between the semantic search results (RAG) and the static file system.
 
