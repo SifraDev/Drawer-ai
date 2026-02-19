@@ -44,8 +44,8 @@ We built Drawer AI entirely on **Replit**, leveraging its full-stack capabilitie
 ---
 
 ## 🎥 Demo & Links
-* **Demo Video:** 
-* **Live App:** [https://drawer-ai.replit.app]
+* **Demo Video:** https://youtu.be/RCeKgMYVggc
+* **Live App:** https://drawer-ai.replit.app
 
 ---
 
